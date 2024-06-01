@@ -15,8 +15,8 @@
 CURRENTLY RUNNING ON BETA VERSION!!
 *
    * @project_name : baileys-qr
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/SuhailTechInfo
+   * @author : Wally Jay Tech
+   * @youtube : https://www.youtube.com/wallyjaytechy
    * @description : Get baileys qr, where session id Converted into 'base64'. You can change it According to your needs.
    * @version 1.0.0
 *
