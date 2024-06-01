@@ -18,7 +18,7 @@
     <img alt="License: GPL-3" src="https://img.shields.io/github/stars/wallyjaytechy/Baileys-Qr?style=social" target="_blank" />
   </a>
   <a aria-label="Wallyjaytech_Md is free to use" href="https://youtube.com/@wallyjaytechy" target="_blank">
-    <img alt="wallyjaytech Yt" src="https://img.shields.io/youtube/channel/subscribers/@wallyjaytechy" target="_blank" />
+    <img alt="wallyjaytech Yt" src="https://img.shields.io/youtube/channel/subscribers/UCXGqfhaa_pZYaLlIwbQb8KQ" target="_blank" />
   </a>
     <p align="center"><img src="https://profile-counter.glitch.me/{wallyjaytechbaileysqr}/count.svg" alt="wallyjaytechy :: Visitor's Count" /></p>
 
