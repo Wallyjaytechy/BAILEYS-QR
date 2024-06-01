@@ -14,11 +14,11 @@
   <a href="https://wa.me/2348144317152" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a aria-label="Baleys_Qr free" href="https://github.com/SuhailTechInfo/Secktor-bot/fork" target="_blank">
-    <img alt="License: GPL-3" src="https://img.shields.io/github/stars/SuhailTechInfo/Baileys-Qr?style=social" target="_blank" />
+  <a aria-label="Baleys_Qr free" href="https://github.com/wallyjaytechy/wallyjaytech-md/fork" target="_blank">
+    <img alt="License: GPL-3" src="https://img.shields.io/github/stars/wallyjaytechy/Baileys-Qr?style=social" target="_blank" />
   </a>
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="Wallyjaytech_Md is free to use" href="https://youtube.com/@wallyjaytechy" target="_blank">
+    <img alt="wallyjaytech Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
     <p align="center"><img src="https://profile-counter.glitch.me/{SuhailBaileysQr}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
 
