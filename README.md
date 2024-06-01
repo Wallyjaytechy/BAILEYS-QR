@@ -1,5 +1,5 @@
 
-<h1 align="center">Baileys-Qr Made by WALLYJAYTECH TECH</h1>
+<h1 align="center">Baileys-Qr Made by WALLY JAY TECH</h1>
 <p align="center"> Get Baileys Qr, where session id Converted into 'base64'. You can change it According to your needs. </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
     <img alt="License: GPL-3" src="https://img.shields.io/github/stars/wallyjaytechy/Baileys-Qr?style=social" target="_blank" />
   </a>
   <a aria-label="Wallyjaytech_Md is free to use" href="https://youtube.com/@wallyjaytechy" target="_blank">
-    <img alt="wallyjaytech Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+    <img alt="wallyjaytech Yt" src="https://img.shields.io/youtube/channel/subscribers/wallyjaytechy" target="_blank" />
   </a>
     <p align="center"><img src="https://profile-counter.glitch.me/{SuhailBaileysQr}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
 
