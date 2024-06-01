@@ -89,7 +89,7 @@ let cc = `╔════◇
 ║ *2.Ytube:* _youtube.com/wallyjaytechy_
 ║ *3.Owner:* _https://wa.me/2348144317152_
 ║ *Note :*_Don't provide your SESSION_ID to_
-║ _anyone otherwise that can access chats_
+║ _anyone otherwise they can access chats_
 ╚════════════════════════╝
 `;
           let session_id = await session.sendMessage(user, { text: c });      //SENDING 'base64' SESSION ID TO USER NUMBER
