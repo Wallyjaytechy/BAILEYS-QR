@@ -20,7 +20,7 @@
   <a aria-label="Wallyjaytech_Md is free to use" href="https://youtube.com/@wallyjaytechy" target="_blank">
     <img alt="wallyjaytech Yt" src="https://img.shields.io/youtube/channel/subscribers/wallyjaytechy" target="_blank" />
   </a>
-    <p align="center"><img src="https://profile-counter.glitch.me/{SuhailBaileysQr}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
+    <p align="center"><img src="https://profile-counter.glitch.me/{wallyjaytechbaileysqr}/count.svg" alt="wallyjaytechy :: Visitor's Count" /></p>
 
      
   </body>
@@ -39,11 +39,11 @@
 
 ## Installation
 ---
-1.  ***Run on [`Replit`](https://replit.com/github/SuhailTechInfo/Baileys-Qr)***
+1.  ***Run on [`Replit`](https://replit.com/github/wallyjaytechy/Baileys-Qr)***
 2. ***Run manually in any terminal Terminal, `TERMUX, VPS, RDP, etc.`***
 ```
 $ git clone https://replit.com/github.com/wallyjaytechy/Baileys-Qr.git
-$ cd suhail-qr
+$ cd wallyjaytechy-qr
 $ npm i
 $ npm start
 ```
