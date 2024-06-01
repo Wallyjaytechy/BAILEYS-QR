@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@wallyjaytechy">
-    <img alt="Wally Jay" height="400" src="https://i.imgur.com/NpA3ZsJ.jpeg">
+    <img alt="Wally Jay" height="400" src="https://telegra.ph/file/da9bc09e001cb656b0cdd.jpg">
   </a>
 </p>
 
